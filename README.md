@@ -6,7 +6,7 @@ A Kotlin Multiplatform template application built with Jetpack Compose Multiplat
 
 | Android | iOS |
 |:---:|:---:|
-| <video src="book_api_android.mp4" width="250" controls></video> | <video src="books_api_ios.mov" width="250" controls></video> |
+| <img src="book_api_android.gif" width="250"> | <img src="books_api_ios.gif" width="250"> |
 
 ## 🚀 What This App Does
 This application demonstrates how to build a shared UI and business logic layer using Compose Multiplatform. 
