@@ -2,6 +2,12 @@
 
 A Kotlin Multiplatform template application built with Jetpack Compose Multiplatform. This demo currently implements a **Book List** application that fetches data from an API, caches it locally, and displays it in a clean, scrollable list.
 
+## 🎥 App Demo
+
+| Android | iOS |
+|:---:|:---:|
+| <video src="book_api_android.mp4" width="250" controls></video> | <video src="books_api_ios.mov" width="250" controls></video> |
+
 ## 🚀 What This App Does
 This application demonstrates how to build a shared UI and business logic layer using Compose Multiplatform. 
 Currently, it fetches a list of books from a remote backend, parses the data, stores it in a local database for offline support, and displays it via Jetpack Compose.
